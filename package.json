@@ -23,5 +23,8 @@
     "babel-preset-stage-3": "^6.24.1",
     "babel-register": "^6.24.1",
     "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "mongoose": "^4.9.7"
   }
 }
