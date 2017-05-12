@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "graphql-start",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -25,6 +25,11 @@
     "nodemon": "^1.11.0"
   },
   "dependencies": {
+    "graphql": "^0.9.6",
+    "graphql-server-koa": "^0.7.2",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^3.2.0",
+    "koa-router": "^7.1.1",
     "mongoose": "^4.9.7"
   }
 }
